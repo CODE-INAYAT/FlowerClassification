@@ -58,7 +58,8 @@ Each class is limited to 200 images per class for memory efficiency during train
 ## File Structure
 - `flower_classification.ipynb`: Main Jupyter notebook with the complete code.
 - `README.md`: This file.
-- `image1.jpeg`: Sample output image for presentation (if included).
+- `image1.jpeg`: ![download](https://github.com/user-attachments/assets/07840c90-3f93-4ac9-bba4-6b7a72429ef8)
+Sample output image for presentation (if included).
 
 ## Training Details
 - **Model Architecture**: Lightweight CNN with 3 convolutional layers, max-pooling, dropout (0.25-0.5), and global average pooling.
